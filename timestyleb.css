@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(160, 0, 0);
+}
+h2{
+    color: white;
+font-family: watch-mn, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25rem;
+text-align: center;
+margin-top: 10%;
+
+ }
+a {
+    color: inherit ;
+    text-decoration: none;
+}
+
+h2:hover {
+    color: rgb(0, 0, 0);
+
+}
+
+ h1 {
+    color: white;
+    text-align: center;
+    font-family: ocr-a-std, monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    
+ }
+
+ h1:hover {
+    color: rgb(0, 0, 0);
+
+}
+h3 {
+   color: white; 
+   font-family: watch-mn, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25rem;
+text-align: left;float:left;
+margin-top: -79%;
+margin-left: 8%;
+
+}
+
+h3:hover {
+    color: rgb(0, 0, 0);
+}
+
+h4 {
+    color: white;
+    text-align: center;
+    font-family: ocr-a-std, monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.0rem;
+    line-height: 1.5rem;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: -20%;
+}
+
+
+
